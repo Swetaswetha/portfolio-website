@@ -12,6 +12,6 @@ This is my **personal portfolio website**, built using **HTML** and **CSS**. It 
 - **CSS** – Basic styling for layout and design  
 
 ## How to view
-you can access my portfolio website by visiting[link] 
+you can access my portfolio website by visiting[https://swetaswetha.github.io/portfolio-website/] 
 
 Thank you for visiting my portfolio Website!
